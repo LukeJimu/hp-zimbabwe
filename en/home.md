@@ -1,8 +1,8 @@
 ---
 lang-ref: home
 layout: home
-title: zimbabwe
-description: Lorem markdownum spatium limes indefessus neque *at* orat aestuat
+title: Hosted Portal for Zimbabwe
+description: This portal hosts biodiversity data for Zimbabwe. It includes data from all the three domains of life from Bacteria to Eukarya. The data was collected from the various biodiversity hotsposts of the country, including the Eastern Highlands, the Great Dyke, the Mavuradonha mountain range and the central watershed.
 background: /assets/images/placeholders/templates/w1600h800.png
 imageLicense: None for this image
 height: 70vh
